@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 98vh;
-    background:  rgba(57, 135, 169, 0.795) url(imagens/transferir\ \(2\).jpeg) center center no-repeat fixed;
+    background:  rgba(57, 135, 169, 0.795) url(background/transferir\ \(2\).jpeg) center center no-repeat fixed;
     background-size: cover;
 }
 
